@@ -57,4 +57,4 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/66d27625-88b2-4f5b-b140-684537959409)
 
 ## Result
-Thus the socket for HTTP for web page upload and download created and Executed
+Thus the socket for HTTP for web page upload and download created and Executed.
